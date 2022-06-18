@@ -1,4 +1,4 @@
-# Philosophers
+# Philosophers :fork_and_knife:
 threads 
 # [subject](https://github.com/OlgaValieva/Philosophers/blob/main/en.subject%20(1).pdf)
 ### *For compilation mandatory part:*
